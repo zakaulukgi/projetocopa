@@ -1,0 +1,68 @@
+*{
+    box-sizing:border-box;
+}
+html,body{
+    margin: 0px;
+    padding:0px;
+    
+    
+
+}
+header{
+    background-color: rgb(143, 10, 10);
+    padding: 8px;
+    color: aliceblue;
+    font:  ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.logo{
+    width: 120px;
+    
+}
+.menu li{
+    display: inline;
+    margin: 0 8px;
+   
+}
+.sim{
+    background-color: rgb(190, 69, 116);
+    padding: 10px;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: inline;
+    
+
+}
+h1{
+
+    font-size: 300%;
+    font: arial black;
+}
+.projetov2{
+    width: 500px;
+   height: ;
+}
+
+.projeto1{
+    width:500px;
+    height: ;
+   
+   
+}
+
+.projeto2{
+    width:500px;
+   height: ;
+}
+
+.bandeiras{
+    width:350PX;
+    border-radius: 5px;
+}
+font-size: 50px;
+    color:red;
+    font-family:'Times New Roman', Times, serif;
